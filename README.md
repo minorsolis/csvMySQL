@@ -1,5 +1,5 @@
-#CSV to MySQL (Aurora AWS)
-#===================
+# CSV to MySQL (Aurora AWS)
+# ===================
 
 ## Summary
 This script takes a huge CSV file and insert it into a MYSQL or AWS Aurora Database using "Bash".
@@ -7,7 +7,7 @@ This script takes a huge CSV file and insert it into a MYSQL or AWS Aurora Datab
 ## Details
 So this scripts is an small variation of http://lubos.rendek.org/import-data-from-csv-file-to-mysql-with-bash-script/
 
-###It will basically fix the following problems:
+### It will basically fix the following problems:
 > It will space the values coming from the CSV file. So it includes "'" it will work just fine.
 > It will add a connection to the remote host (just in case you're using AWS RDS).
 
