@@ -1,5 +1,4 @@
 # CSV to MySQL (Aurora AWS)
-# ===================
 
 ## Summary
 This script takes a huge CSV file and insert it into a MYSQL or AWS Aurora Database using "Bash".
