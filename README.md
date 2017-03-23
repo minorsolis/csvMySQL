@@ -4,7 +4,7 @@
 This script takes a huge CSV file and insert it into a MYSQL or AWS Aurora Database using "Bash".
 
 ## Details
-So this scripts is an small variation of http://lubos.rendek.org/import-data-from-csv-file-to-mysql-with-bash-script/
+So this scripts is a small variation of http://lubos.rendek.org/import-data-from-csv-file-to-mysql-with-bash-script/
 
 ### It will basically fix the following problems:
 > It will scape the values coming from the CSV file. So if it includes "'" it will work just fine.
